@@ -38,14 +38,6 @@
 4. Abre el archivo `index.html` en un navegador para ver la tienda en línea 🌟.
 5. Para mejorar la funcionalidad, puedes agregar scripts de JavaScript o un backend para procesar el formulario ⚙️.
 
----
-
-## 💡 Recomendaciones
-
-- Añadir validación y funcionalidad al formulario de contacto ✔️.
-- Mejorar la accesibilidad y responsividad con CSS y media queries 📱💻.
-- Optimizar imágenes para una carga más rápida ⚡.
-- Incorporar un sistema de carrito y pago si se desea expandir el proyecto 🛒💳.
 
 ---
 
